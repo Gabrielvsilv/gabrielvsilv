@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td valign="top">
-      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVieira&show_icons=true&theme=radical)
+      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvsilv&show_icons=true&theme=radical)
     </td>
     <td valign="top">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVieira&layout=compact&theme=radical)
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvsilv&layout=compact&theme=radical)
     </td>
   </tr>
 </table>
