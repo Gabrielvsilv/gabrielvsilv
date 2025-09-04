@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Back-End em Formação
 
-Sou um profissional em transição de carreira, com paixão por tecnologia e focado em construir soluções robustas e eficientes no **Back-End**. Atualmente, estou aprofundando meus conhecimentos em **Java**, **C** e , e aprimorando minhas habilidades com bancos de dados relacionais, como **MySQL** e **SQL**. Estou sempre buscando aprender e evoluir para me tornar um desenvolvedor de alto nível.
+Sou um profissional em transição de carreira, com paixão por tecnologia e focado em construir soluções robustas e eficientes no **Back-End**. Atualmente, estou aprofundando meus conhecimentos em **Java**, **C**, e aprimorando minhas habilidades com bancos de dados relacionais, como **MySQL** e **SQL**. Estou sempre buscando aprender e evoluir para me tornar um desenvolvedor de alto nível.
 
 ---
 
