@@ -10,7 +10,7 @@ Sou um desenvolvedor focado na construção de soluções escaláveis e eficient
 **Linguagens e Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+ 
 </p>
 
 **Bancos de Dados & BI**
