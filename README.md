@@ -50,6 +50,11 @@ Sou um desenvolvedor focado na construção de soluções escaláveis e eficient
       <p>Análise de risco de crédito utilizando <b>Power BI</b> e processamento de dados.</p>
       <a href="https://github.com/Gabrielvsilv/Credit-Analytics-Dashboard">Ver Repositório →</a>
     </td>
+    <td width="50%" valign="top">
+      <h4>📊 Credit Analytics Dashboard</h4>
+      <p>Análise de risco de crédito utilizando <b>Power BI</b> e processamento de dados.</p>
+      <a href="https://github.com/Gabrielvsilv/Sistem-cadastro-java">Ver Repositório →</a>
+    </td>
   </tr>
 </table>
 
