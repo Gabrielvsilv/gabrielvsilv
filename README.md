@@ -46,9 +46,9 @@ Sou um desenvolvedor focado na construção de soluções escaláveis e eficient
       <a href="https://github.com/Gabrielvsilv/atividade-estagio">Ver Repositório →</a>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Credit Analytics Dashboard</h4>
-      <p>Análise de risco de crédito utilizando <b>Power BI</b> e processamento de dados.</p>
-      <a href="https://github.com/Gabrielvsilv/Credit-Analytics-Dashboard">Ver Repositório →</a>
+      <h4> Sistema de Cadastro Pessoal </h4>
+      <p> cadastro de pessoas com integração automática de endereço.</p>
+      <a href="https://github.com/Gabrielvsilv/sistema-cadastro-java">Ver Repositório →</a>
     </td>
   </tr>
 </table>
