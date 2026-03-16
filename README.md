@@ -48,6 +48,20 @@ Sou um desenvolvedor focado na construção de soluções escaláveis e eficient
       <p> cadastro de pessoas com integração automática de endereço.</p>
       <a href="https://github.com/Gabrielvsilv/sistema-cadastro-java">Ver Repositório →</a>
     </td>
+
+
+<table border="0">
+  <tr>
+    <td>
+      <b>📚 Sistema de Biblioteca</b><br>
+      Desenvolvido em <b>Java</b> com <b>PostgreSQL</b>, focado em gerenciamento de acervo e empréstimos.<br>
+      <a href="https://github.com/SEU-USUARIO/sistema-biblioteca-java-postgresql">Ver Repositório →</a>
+    </td>
+  </tr>
+</table>
+
+
+    
   </tr>
 </table>
 
