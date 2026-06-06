@@ -6,13 +6,12 @@ Sou um desenvolvedor focado na construção de soluções escaláveis, eficiente
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 📊 Estatísticas e Tecnologias
 
-### Linguagens & Frameworks
-<div inline>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=gabrielvsilv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens Mais Utilizadas" height="180px" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=gabrielvsilv&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="180px" />
+</p>
 
 ### Bancos de Dados & Ferramentas de BI
 <div inline>
