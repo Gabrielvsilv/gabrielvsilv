@@ -28,7 +28,6 @@ Sou um desenvolvedor focado na construção de soluções escaláveis, eficiente
 </div>
 
 ---
-
 ## 📊 Estatísticas e Tecnologias
 
 <p align="center">
