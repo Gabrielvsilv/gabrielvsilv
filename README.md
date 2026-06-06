@@ -6,11 +6,13 @@ Sou um desenvolvedor focado na construção de soluções escaláveis, eficiente
 
 ---
 
-## 📊 Estatísticas de Contribuição
+## 🛠️ Habilidades Técnicas
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielvsilv&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+### Linguagens & Frameworks
+<div inline>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+</div>
 
 ### Bancos de Dados & Ferramentas de BI
 <div inline>
@@ -19,19 +21,11 @@ Sou um desenvolvedor focado na construção de soluções escaláveis, eficiente
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="Power BI" />
 </div>
 
-### DevOps & Ferramentas de Desenvolvimento
+### Ferramentas de Desenvolvimento
 <div inline>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
-
----
-## 📊 Estatísticas e Tecnologias
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvsilv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens Mais Utilizadas" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielvsilv&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="180px" />
-</p>
 
 ---
 
@@ -45,7 +39,7 @@ Sou um desenvolvedor focado na construção de soluções escaláveis, eficiente
 *Sistema completo em Java integrado com PostgreSQL, focado no gerenciamento de acervo, usuários e lógica de empréstimos, aplicando conceitos rígidos de POO e persistência.*
 👉 *[Ver Repositório](https://github.com/gabrielvsilv/sistema-biblioteca-java-postgresql)*
 
-### 🚗 Sistema de Gerenciamento de Aluguel de Filmes
+### 🎬 Sistema de Gerenciamento de Aluguel de Filmes
 *Aplicação desenvolvida em Java focada na lógica de persistência e encapsulamento para controle de locações.*
 👉 *[Ver Repositório](https://github.com/gabrielvsilv/atividade-estagio)*
 
