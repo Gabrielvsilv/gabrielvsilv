@@ -32,7 +32,9 @@ Sou um desenvolvedor focado na construção de soluções escaláveis, eficiente
 ## 🚀 Projetos em Destaque
 
 ### 📈  Controle de Clientes JDBC
-*Dashboard interativo de análise de crédito e risco desenvolvido no Power BI. Focado em transformar dados brutos em insights estratégicos para tomada de decisão.*
+*Aplicação Back-End desenvolvida em Java utilizando JDBC e PostgreSQL. O projeto implementa operações CRUD completas, Programação Orientada a Objetos, herança, Collections e o padrão DAO para acesso a dados.
+
+Tecnologias: Java • JDBC • PostgreSQL • Git • GitHub*
 👉 *[Ver Repositório](https://github.com/Gabrielvsilv/controle-cliente-jdbc)*
 
 ### 📚 Sistema de Biblioteca
