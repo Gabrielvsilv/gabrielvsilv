@@ -32,7 +32,7 @@ Sou um desenvolvedor focado na construção de soluções escaláveis, eficiente
 ## 🚀 Projetos em Destaque
 
 ### 📈  Controle de Clientes JDBC
-*Aplicação Back-End desenvolvida em Java utilizando JDBC e PostgreSQL. O projeto implementa operações CRUD completas, Programação Orientada a Objetos, herança, Collections e o padrão DAO para acesso a dados.
+Aplicação Back-End desenvolvida em Java utilizando JDBC e PostgreSQL. O projeto implementa operações CRUD completas, Programação Orientada a Objetos, herança, Collections e o padrão DAO para acesso a dados.
 
 Tecnologias: Java • JDBC • PostgreSQL • Git • GitHub*
 👉 *[Ver Repositório](https://github.com/Gabrielvsilv/controle-cliente-jdbc)*
