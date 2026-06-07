@@ -31,7 +31,7 @@ Sou um desenvolvedor focado na construção de soluções escaláveis, eficiente
 
 ## 🚀 Projetos em Destaque
 
-### 📈 Credit Analytics Dashboard
+### 📈  Controle de Clientes JDBC
 *Dashboard interativo de análise de crédito e risco desenvolvido no Power BI. Focado em transformar dados brutos em insights estratégicos para tomada de decisão.*
 👉 *[Ver Repositório](https://github.com/Gabrielvsilv/controle-cliente-jdbc)*
 
