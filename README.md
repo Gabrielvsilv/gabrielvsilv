@@ -33,7 +33,7 @@ Sou um desenvolvedor focado na construção de soluções escaláveis, eficiente
 
 ### 📈 Credit Analytics Dashboard
 *Dashboard interativo de análise de crédito e risco desenvolvido no Power BI. Focado em transformar dados brutos em insights estratégicos para tomada de decisão.*
-👉 *[Ver Repositório](https://github.com/gabrielvsilv/Credit-Analytics-Dashboard)*
+👉 *[Ver Repositório](https://github.com/Gabrielvsilv/controle-cliente-jdbc)*
 
 ### 📚 Sistema de Biblioteca
 *Sistema completo em Java integrado com PostgreSQL, focado no gerenciamento de acervo, usuários e lógica de empréstimos, aplicando conceitos rígidos de POO e persistência.*
