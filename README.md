@@ -1,6 +1,6 @@
 Olá, sou o Gabriel Vieira 👋
 
-Software Developer | Java | Spring Boot | SQL | PostgreSQL | MySQL
+Software Developer | Java | Spring Boot | SQL | Power BI | PostgreSQL | MySQL
 Sou desenvolvedor de software com foco na construção de aplicações escaláveis e bem estruturadas.
 
 Atualmente desenvolvo projetos utilizando Java, Spring Boot, SQL e PostgreSQL, enquanto amplio meus conhecimentos em desenvolvimento Full Stack com HTML, CSS, JavaScript, PHP e MySQL.
