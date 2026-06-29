@@ -1,8 +1,11 @@
 # Olá, sou o Gabriel Vieira 👋
 
 ### Backend Developer (Java) | SQL (PostgreSQL & MySQL) | Data & Business Intelligence
+Sou desenvolvedor de software com foco na construção de aplicações escaláveis e bem estruturadas.
 
-Sou um desenvolvedor focado na construção de soluções escaláveis, eficientes e robustas para o lado do servidor, além de atuar fortemente na modelagem de dados e inteligência de negócios. Atualmente, aprimoro meu domínio no ecossistema Java, arquitetura de bancos de dados e criação de dashboards analíticos de alto impacto.
+Atualmente desenvolvo projetos utilizando Java, Spring Boot, SQL e PostgreSQL, enquanto amplio meus conhecimentos em desenvolvimento Full Stack com HTML, CSS, JavaScript, PHP e MySQL.
+
+Também possuo experiência em Business Intelligence, modelagem de dados e Power BI.
 
 ---
 
